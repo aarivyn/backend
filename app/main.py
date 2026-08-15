@@ -37,7 +37,7 @@ app = FastAPI(
 
 # Priority 5: Configurable CORS Hardening
 cors_origins = settings.CORS_ALLOWED_ORIGINS
-cors_origins = [ "frontend2-0-rr5b-git-main-aarivyn-2397s-projects.vercel.app" ]
+cors_origins = [ "https://frontend2-0-rr5b-git-main-aarivyn-2397s-projects.vercel.app" ]
 allow_all_origins = "*" in cors_origins
 
 app.add_middleware(
