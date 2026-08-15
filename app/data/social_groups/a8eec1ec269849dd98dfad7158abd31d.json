@@ -1,0 +1,19 @@
+{
+  "id": "a8eec1ec269849dd98dfad7158abd31d",
+  "name": "Village A",
+  "profiles": [
+    {
+      "income_group": "BPL",
+      "employment_status": null,
+      "gender": "male",
+      "age": null,
+      "caste": null,
+      "area_type": null,
+      "religion": null
+    }
+  ],
+  "intensity": 4,
+  "details": "test",
+  "created_at": "2026-08-14T16:25:21.622663Z",
+  "updated_at": "2026-08-14T16:25:21.622673Z"
+}

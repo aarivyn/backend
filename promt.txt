@@ -1,0 +1,11 @@
+The backend is ready and the details are available at API.md @file:backend/API.md. We need to build a frontend using  around it. Is nextJS, tailwindCSS and typescript
+ 
+The workflow should be:
+1) Auth (login, etc.)
+2) Workspace selection
+3) Inputs (budget locations social-groups timeline, Map Data Ingest)
+3) Earth Observation Ingestion, Water Intelligence Engine, Problem Detection & Context, Intervention Knowledge Graph
+4) Feasibility Filter Engine, NSGA-II Multi-Objective Optimizer, Provenance & Explainability Audit
+5) Portfolios & Implementation Plan
+
+Don't touch fetch-pc for now

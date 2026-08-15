@@ -1,0 +1,70 @@
+{
+  "id": "9896ae1e51d9476285888f7a158d11da",
+  "name": "village_boundary_demo",
+  "category": "base_maps",
+  "usage": "administrative_boundary",
+  "source_type": "geojson",
+  "source_filename": "village.geojson",
+  "representation": "vector_geojson",
+  "source_crs": null,
+  "target_crs": "EPSG:4326",
+  "bbox": [
+    81.22,
+    24.52,
+    81.28,
+    24.56
+  ],
+  "feature_count": 1,
+  "geometry_types": [
+    "Polygon"
+  ],
+  "size_bytes": 230,
+  "confidence": "high",
+  "warnings": [
+    "usage inferred from filename: 'administrative_boundary' (override with usage= form field)"
+  ],
+  "converted_at": "2026-08-14T16:40:00.952298Z",
+  "data": {
+    "format": "geojson",
+    "crs": "EPSG:4326",
+    "geojson": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Village A",
+            "population": 1200
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  81.22,
+                  24.52
+                ],
+                [
+                  81.28,
+                  24.52
+                ],
+                [
+                  81.28,
+                  24.56
+                ],
+                [
+                  81.22,
+                  24.56
+                ],
+                [
+                  81.22,
+                  24.52
+                ]
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

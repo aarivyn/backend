@@ -1,0 +1,10 @@
+{
+  "id": "5c340fa6e44b411db1a2ca528a38ab0b",
+  "name": "Q3 budget",
+  "target_budget": 100000000.0,
+  "maximum_budget": 150000000.0,
+  "intensity": 7,
+  "details": "Rewa water program",
+  "created_at": "2026-08-14T16:25:21.559359Z",
+  "updated_at": "2026-08-14T16:44:52.276319Z"
+}

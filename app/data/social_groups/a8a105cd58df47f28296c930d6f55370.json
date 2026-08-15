@@ -1,0 +1,19 @@
+{
+  "id": "a8a105cd58df47f28296c930d6f55370",
+  "name": "Village B",
+  "profiles": [
+    {
+      "income_group": "BPL",
+      "employment_status": "salaried_private",
+      "gender": "male",
+      "age": null,
+      "caste": "sc",
+      "area_type": null,
+      "religion": null
+    }
+  ],
+  "intensity": 4,
+  "details": "",
+  "created_at": "2026-08-14T17:06:47.305639Z",
+  "updated_at": "2026-08-14T17:06:47.305648Z"
+}
